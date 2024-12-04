@@ -1,0 +1,17 @@
+table {
+    background-color: aqua;
+    width: 50%; /* Largura da tabela */
+    border-collapse: collapse; /* Remove espaços entre as bordas */
+    margin: 20px auto; /* Centraliza na página */
+  }
+
+  th, td {
+    border: 1px solid #000; /* Borda das células */
+    padding: 10px; /* Espaçamento interno */
+    text-align: center; /* Centraliza o texto */
+  }
+
+  th {
+    background-color:antiquewhite; /* Cor de fundo do cabeçalho */
+    font-weight: bold; /* Deixa o texto em negrito */
+  }
